@@ -1,0 +1,14 @@
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\bin\Debug\net8.0\WDExponentAssignment.exe
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\bin\Debug\net8.0\WDExponentAssignment.deps.json
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\bin\Debug\net8.0\WDExponentAssignment.runtimeconfig.json
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\bin\Debug\net8.0\WDExponentAssignment.dll
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\bin\Debug\net8.0\WDExponentAssignment.pdb
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.AssemblyInfoInputs.cache
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.AssemblyInfo.cs
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.dll
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\refint\WDExponentAssignment.dll
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.pdb
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\WDExponentAssignment.genruntimeconfig.cache
+C:\Users\wille\source\repos\WDExponentAssignment\WDExponentAssignment\obj\Debug\net8.0\ref\WDExponentAssignment.dll

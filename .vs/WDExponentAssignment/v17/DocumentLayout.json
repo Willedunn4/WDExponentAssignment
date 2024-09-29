@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wille\\source\\repos\\WDExponentAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C89326-495C-45FB-8F4A-3DAF3D1FEC63}|WDExponentAssignment\\WDExponentAssignment.csproj|c:\\users\\wille\\source\\repos\\wdexponentassignment\\wdexponentassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C89326-495C-45FB-8F4A-3DAF3D1FEC63}|WDExponentAssignment\\WDExponentAssignment.csproj|solutionrelative:wdexponentassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wille\\source\\repos\\WDExponentAssignment\\WDExponentAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "WDExponentAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\wille\\source\\repos\\WDExponentAssignment\\WDExponentAssignment\\Program.cs",
+              "RelativeToolTip": "WDExponentAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T21:10:03.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
